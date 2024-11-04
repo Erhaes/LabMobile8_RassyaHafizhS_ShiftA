@@ -8,3 +8,5 @@ SHIFT : A (baru)
 
 SHIFT  : D (eldiru)
 
+# Penjelasan Cara Kerja Login pada Ionic
+
